@@ -2,7 +2,7 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset='utf-8'>
-    <meta http-serif='X-UA-Compatible' content='IE=edge'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width,initial-scale=1'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% seo %}
@@ -33,12 +33,12 @@
       </section>
     </div>
 
-    <!-- THIS IS THE FOOTER MODIFICATION ZONE -->
     <footer>
       <div class="container">
         <p>
           {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.<br>
-          <a href="{{ '/privacy.html' | relative_url }}"><b>Privacy Policy</b></a>
+          <a href="{{ '/privacy.html' | relative_url }}"><b>Privacy Policy</b></a> | 
+          <a href="{{ '/terms.html' | relative_url }}"><b>Terms of Service</b></a>
         </p>
       </div>
     </footer>
