@@ -1,0 +1,29 @@
+<p>Privacy Policy for <b>AndraeSnegs7 Personal</b></p>
+<p>At <b>AndraeSnegs7 Personal Github</b>, accessible from <b>https://andraesnegs7.github.io/</b>, visitor privacy is a main priority. This document covers information collected and recorded by the site and its usage.</p>
+<p>For questions, contact <b>andraesnegirev+githubrepo@gmail.com</b>. This policy applies only to online activities on this website and was created with the Free Privacy Policy Generator Tool.</p>
+
+<h2>Consent & Information</h2>
+<p>By using the website, you consent to this policy. Collected info includes direct contact details (name, email, phone) provided when messaging or registering.</p>
+
+<h2>How We Use Information</h2>
+<ul>
+<li>Provide, operate, and maintain our website</li>
+<li>Improve, personalize, and expand our website</li>
+<li>Understand and analyze how you use our website</li>
+<li>Develop new products, services, features, and functionality</li>
+<li>Communicate with you for customer service, updates, and marketing</li>
+<li>Send you emails</li>
+<li>Find and prevent fraud</li>
+</ul>
+
+<h2>Third-Party Hosting Notice</h2>
+<p>Our website is hosted using <b>GitHub Pages</b>, which may automatically log technical data (IP address, browser type, pages visited) to maintain security and infrastructure performance. Review the <a href="https://github.io" target="_blank" rel="noopener">GitHub General Privacy Statement</a> for details.</p>
+
+<h2>Cookies, Log Files & Advertising</h2>
+<p>The site uses standard log files and cookies via vendors like Google (including DART cookies for ads). You can opt out of DART cookies via <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">Google's Privacy Policy</a> or disable cookies in your browser settings.</p>
+
+<h2>CCPA & GDPR Rights</h2>
+<p>Users have rights to access, rectify, erase, or restrict data processing under GDPR and CCPA regulations. Contact us to exercise these rights within one month.</p>
+
+<h2>Children's Information</h2>
+<p>We do not knowingly collect data from children under 13. Contact us immediately if you believe your child provided such information.</p>
